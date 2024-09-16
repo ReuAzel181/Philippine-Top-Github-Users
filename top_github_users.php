@@ -14,7 +14,7 @@ function fetch_github_data($url) {
 
 // Fetch top followed users in the Philippines
 function get_top_followed_users() {
-    $url = "https://api.github.com/search/users?q=location:Philippines&sort=followers&order=desc&per_page=10";
+    $url = "https://api.github.com/search/users?q=location:Philippines&sort=followers&order=desc&per_page=200";
     return fetch_github_data($url)['items'];
 }
 
@@ -46,7 +46,7 @@ function generate_markdown($users, $filename) {
 
 // Main script
 $users = get_top_followed_users();
-generate_markdown($users, 'philippines.md');
+generate_markdown($users, 'README.md');
 
 echo "Markdown file generated: philippines.md";
 ?>
