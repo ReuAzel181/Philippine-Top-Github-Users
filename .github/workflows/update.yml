@@ -1,0 +1,30 @@
+name: Update GitHub Users List
+
+on:
+  schedule:
+    # Runs the workflow daily at midnight
+    - cron: "0 0 * * *"
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: 7.4
+
+      - name: Run PHP script
+        run: php top_github_users.php
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add philippines.md
+          git commit -m "Update top GitHub users list"
+          git push
