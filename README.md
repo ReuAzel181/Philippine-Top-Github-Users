@@ -1,14 +1,104 @@
 # Top Followed GitHub Users in the Philippines
 
-| Rank | Username | Followers | Repositories | Profile |
-| --- | --- | --- | --- | --- |
-| 1 | carlcastanas | 2770 | 49 | [Profile](https://github.com/carlcastanas) |
-| 2 | linux-china | 2074 | 522 | [Profile](https://github.com/linux-china) |
-| 3 | xchanmolx | 1936 | 50 | [Profile](https://github.com/xchanmolx) |
-| 4 | yajra | 1192 | 88 | [Profile](https://github.com/yajra) |
-| 5 | warengonzaga | 1150 | 156 | [Profile](https://github.com/warengonzaga) |
-| 6 | arsg0etia | 1066 | 5 | [Profile](https://github.com/arsg0etia) |
-| 7 | godkingjay | 1003 | 63 | [Profile](https://github.com/godkingjay) |
-| 8 | Evolution-X-AOSP | 895 | 157 | [Profile](https://github.com/Evolution-X-AOSP) |
-| 9 | mrHeinrichh | 877 | 72 | [Profile](https://github.com/mrHeinrichh) |
-| 10 | codedrian | 794 | 41 | [Profile](https://github.com/codedrian) |
+| Rank | Username | Followers | Repositories | Location | Profile |
+| --- | --- | --- | --- | --- | --- |
+| 1 | ![carlcastanas](https://avatars.githubusercontent.com/u/89068725?v=4) [carlcastanas](https://github.com/carlcastanas) | 2771 | 49 | BGC, Philippines | [Profile](https://github.com/carlcastanas) |
+| 2 | ![linux-china](https://avatars.githubusercontent.com/u/46711?v=4) [linux-china](https://github.com/linux-china) | 2074 | 522 | Davao City Philippines | [Profile](https://github.com/linux-china) |
+| 3 | ![xchanmolx](https://avatars.githubusercontent.com/u/16154263?v=4) [xchanmolx](https://github.com/xchanmolx) | 1935 | 50 | Philippines | [Profile](https://github.com/xchanmolx) |
+| 4 | ![yajra](https://avatars.githubusercontent.com/u/2687997?v=4) [yajra](https://github.com/yajra) | 1192 | 88 | Philippines | [Profile](https://github.com/yajra) |
+| 5 | ![warengonzaga](https://avatars.githubusercontent.com/u/15052701?v=4) [warengonzaga](https://github.com/warengonzaga) | 1149 | 156 | Philippines | [Profile](https://github.com/warengonzaga) |
+| 6 | ![arsg0etia](https://avatars.githubusercontent.com/u/95715389?v=4) [arsg0etia](https://github.com/arsg0etia) | 1059 | 5 | Philippines | [Profile](https://github.com/arsg0etia) |
+| 7 | ![godkingjay](https://avatars.githubusercontent.com/u/89616705?v=4) [godkingjay](https://github.com/godkingjay) | 1002 | 63 | Philippines | [Profile](https://github.com/godkingjay) |
+| 8 | ![Evolution-X-AOSP](https://avatars.githubusercontent.com/u/66854612?v=4) [Evolution-X-AOSP](https://github.com/Evolution-X-AOSP) | 894 | 157 | Philippines | [Profile](https://github.com/Evolution-X-AOSP) |
+| 9 | ![mrHeinrichh](https://avatars.githubusercontent.com/u/97886828?v=4) [mrHeinrichh](https://github.com/mrHeinrichh) | 876 | 72 | Philippines | [Profile](https://github.com/mrHeinrichh) |
+| 10 | ![codedrian](https://avatars.githubusercontent.com/u/67692336?v=4) [codedrian](https://github.com/codedrian) | 792 | 41 | Philippines | [Profile](https://github.com/codedrian) |
+| 11 | ![vinzvinci](https://avatars.githubusercontent.com/u/73097560?v=4) [vinzvinci](https://github.com/vinzvinci) | 780 | 29 | Las Piñas City, Philippines | [Profile](https://github.com/vinzvinci) |
+| 12 | ![JophilGulane](https://avatars.githubusercontent.com/u/111653199?v=4) [JophilGulane](https://github.com/JophilGulane) | 774 | 40 | Philippines | [Profile](https://github.com/JophilGulane) |
+| 13 | ![JaKooLit](https://avatars.githubusercontent.com/u/85185940?v=4) [JaKooLit](https://github.com/JaKooLit) | 655 | 42 | South Korea / Philippines - Worldwide | [Profile](https://github.com/JaKooLit) |
+| 14 | ![MicahZoltu](https://avatars.githubusercontent.com/u/886059?v=4) [MicahZoltu](https://github.com/MicahZoltu) | 582 | 168 | Philippines | [Profile](https://github.com/MicahZoltu) |
+| 15 | ![aldrin112602](https://avatars.githubusercontent.com/u/76159577?v=4) [aldrin112602](https://github.com/aldrin112602) | 502 | 136 | Sampaloc, Tanay, Rizal, Philippines | [Profile](https://github.com/aldrin112602) |
+| 16 | ![lxsmnsyc](https://avatars.githubusercontent.com/u/4783372?v=4) [lxsmnsyc](https://github.com/lxsmnsyc) | 497 | 252 | Philippines | [Profile](https://github.com/lxsmnsyc) |
+| 17 | ![AlizerUncaged](https://avatars.githubusercontent.com/u/86959368?v=4) [AlizerUncaged](https://github.com/AlizerUncaged) | 491 | 73 | Philippines | [Profile](https://github.com/AlizerUncaged) |
+| 18 | ![six519](https://avatars.githubusercontent.com/u/483547?v=4) [six519](https://github.com/six519) | 488 | 160 | Lipa City, Batangas, Philippines | [Profile](https://github.com/six519) |
+| 19 | ![jgudo](https://avatars.githubusercontent.com/u/30772059?v=4) [jgudo](https://github.com/jgudo) | 477 | 87 | Philippines | [Profile](https://github.com/jgudo) |
+| 20 | ![carl-alberto](https://avatars.githubusercontent.com/u/5098765?v=4) [carl-alberto](https://github.com/carl-alberto) | 466 | 329 | Philippines  | [Profile](https://github.com/carl-alberto) |
+| 21 | ![roatienza](https://avatars.githubusercontent.com/u/8848769?v=4) [roatienza](https://github.com/roatienza) | 457 | 17 | Philippines | [Profile](https://github.com/roatienza) |
+| 22 | ![FWDP](https://avatars.githubusercontent.com/u/111631821?v=4) [FWDP](https://github.com/FWDP) | 440 | 12 | Philippines | [Profile](https://github.com/FWDP) |
+| 23 | ![jrgabrillo](https://avatars.githubusercontent.com/u/19164950?v=4) [jrgabrillo](https://github.com/jrgabrillo) | 433 | 84 | Philippines | [Profile](https://github.com/jrgabrillo) |
+| 24 | ![shipcod3](https://avatars.githubusercontent.com/u/3483615?v=4) [shipcod3](https://github.com/shipcod3) | 426 | 133 | Philippines | [Profile](https://github.com/shipcod3) |
+| 25 | ![marcuwynu23](https://avatars.githubusercontent.com/u/61897063?v=4) [marcuwynu23](https://github.com/marcuwynu23) | 410 | 117 | Philippines | [Profile](https://github.com/marcuwynu23) |
+| 26 | ![jofftiquez](https://avatars.githubusercontent.com/u/8638243?v=4) [jofftiquez](https://github.com/jofftiquez) | 393 | 138 | Manila, Philippines | [Profile](https://github.com/jofftiquez) |
+| 27 | ![joshuadeguzman](https://avatars.githubusercontent.com/u/20706361?v=4) [joshuadeguzman](https://github.com/joshuadeguzman) | 383 | 104 | Philippines | [Profile](https://github.com/joshuadeguzman) |
+| 28 | ![mart-anthony-stark](https://avatars.githubusercontent.com/u/69393826?v=4) [mart-anthony-stark](https://github.com/mart-anthony-stark) | 373 | 217 | Philippines | [Profile](https://github.com/mart-anthony-stark) |
+| 29 | ![erafaelmanuel](https://avatars.githubusercontent.com/u/29855143?v=4) [erafaelmanuel](https://github.com/erafaelmanuel) | 361 | 33 | Philippines | [Profile](https://github.com/erafaelmanuel) |
+| 30 | ![Dojikooo](https://avatars.githubusercontent.com/u/114460748?v=4) [Dojikooo](https://github.com/Dojikooo) | 359 | 5 | Philippines | [Profile](https://github.com/Dojikooo) |
+| 31 | ![bryllim](https://avatars.githubusercontent.com/u/37092544?v=4) [bryllim](https://github.com/bryllim) | 357 | 3 | Cebu, Philippines | [Profile](https://github.com/bryllim) |
+| 32 | ![marksteve](https://avatars.githubusercontent.com/u/26679?v=4) [marksteve](https://github.com/marksteve) | 355 | 189 | Philippines | [Profile](https://github.com/marksteve) |
+| 33 | ![ivanceras](https://avatars.githubusercontent.com/u/7972655?v=4) [ivanceras](https://github.com/ivanceras) | 350 | 173 | Cebu, Philippines | [Profile](https://github.com/ivanceras) |
+| 34 | ![anchetaWern](https://avatars.githubusercontent.com/u/743603?v=4) [anchetaWern](https://github.com/anchetaWern) | 346 | 236 | San Fernando City, La Union Philippines | [Profile](https://github.com/anchetaWern) |
+| 35 | ![Lester016](https://avatars.githubusercontent.com/u/37885860?v=4) [Lester016](https://github.com/Lester016) | 323 | 33 | Manila, Philippines | [Profile](https://github.com/Lester016) |
+| 36 | ![avionschool](https://avatars.githubusercontent.com/u/8936491?v=4) [avionschool](https://github.com/avionschool) | 320 | 20 | Philippines | [Profile](https://github.com/avionschool) |
+| 37 | ![OSSPhilippines](https://avatars.githubusercontent.com/u/73895857?v=4) [OSSPhilippines](https://github.com/OSSPhilippines) | 319 | 27 | Philippines | [Profile](https://github.com/OSSPhilippines) |
+| 38 | ![cedgarcia](https://avatars.githubusercontent.com/u/73617530?v=4) [cedgarcia](https://github.com/cedgarcia) | 317 | 30 | Philippines | [Profile](https://github.com/cedgarcia) |
+| 39 | ![albertyumol](https://avatars.githubusercontent.com/u/17405515?v=4) [albertyumol](https://github.com/albertyumol) | 314 | 70 | Manila, Philippines | [Profile](https://github.com/albertyumol) |
+| 40 | ![jasperblues](https://avatars.githubusercontent.com/u/430321?v=4) [jasperblues](https://github.com/jasperblues) | 296 | 57 | Earth (Mostly Australia & Philippines) | [Profile](https://github.com/jasperblues) |
+| 41 | ![johndeweyzxc](https://avatars.githubusercontent.com/u/107840996?v=4) [johndeweyzxc](https://github.com/johndeweyzxc) | 289 | 19 | Cavite, Philippines | [Profile](https://github.com/johndeweyzxc) |
+| 42 | ![eromatiya](https://avatars.githubusercontent.com/u/40349590?v=4) [eromatiya](https://github.com/eromatiya) | 284 | 24 | Philippines | [Profile](https://github.com/eromatiya) |
+| 43 | ![Hajjimeee](https://avatars.githubusercontent.com/u/114459775?v=4) [Hajjimeee](https://github.com/Hajjimeee) | 284 | 4 | Philippines | [Profile](https://github.com/Hajjimeee) |
+| 44 | ![tyron12233](https://avatars.githubusercontent.com/u/74818961?v=4) [tyron12233](https://github.com/tyron12233) | 277 | 35 | Philippines | [Profile](https://github.com/tyron12233) |
+| 45 | ![mrdcvlsc](https://avatars.githubusercontent.com/u/59404502?v=4) [mrdcvlsc](https://github.com/mrdcvlsc) | 277 | 35 | Philippines | [Profile](https://github.com/mrdcvlsc) |
+| 46 | ![zakame](https://avatars.githubusercontent.com/u/110625?v=4) [zakame](https://github.com/zakame) | 270 | 231 | Makati, Philippines | [Profile](https://github.com/zakame) |
+| 47 | ![nedpals](https://avatars.githubusercontent.com/u/7358345?v=4) [nedpals](https://github.com/nedpals) | 255 | 77 | Davao City, Philippines | [Profile](https://github.com/nedpals) |
+| 48 | ![junedomingo](https://avatars.githubusercontent.com/u/5106887?v=4) [junedomingo](https://github.com/junedomingo) | 250 | 68 | Ilagan City, Isabela, Philippines | [Profile](https://github.com/junedomingo) |
+| 49 | ![RemLampa](https://avatars.githubusercontent.com/u/5052530?v=4) [RemLampa](https://github.com/RemLampa) | 249 | 82 | Philippines | [Profile](https://github.com/RemLampa) |
+| 50 | ![jayehernandez](https://avatars.githubusercontent.com/u/13959651?v=4) [jayehernandez](https://github.com/jayehernandez) | 249 | 34 | Philippines | [Profile](https://github.com/jayehernandez) |
+| 51 | ![pageman](https://avatars.githubusercontent.com/u/24869?v=4) [pageman](https://github.com/pageman) | 247 | 176 | Manila, Philippines | [Profile](https://github.com/pageman) |
+| 52 | ![RisingTechOSS](https://avatars.githubusercontent.com/u/121661057?v=4) [RisingTechOSS](https://github.com/RisingTechOSS) | 244 | 155 | Philippines | [Profile](https://github.com/RisingTechOSS) |
+| 53 | ![aivantuquero](https://avatars.githubusercontent.com/u/54162088?v=4) [aivantuquero](https://github.com/aivantuquero) | 244 | 20 | Manila, Philippines | [Profile](https://github.com/aivantuquero) |
+| 54 | ![codewithJosh](https://avatars.githubusercontent.com/u/85565519?v=4) [codewithJosh](https://github.com/codewithJosh) | 243 | 8 | Pangasinan, Philippines | [Profile](https://github.com/codewithJosh) |
+| 55 | ![0xbitx](https://avatars.githubusercontent.com/u/74537225?v=4) [0xbitx](https://github.com/0xbitx) | 241 | 119 | China / Philippines | [Profile](https://github.com/0xbitx) |
+| 56 | ![angelofallars](https://avatars.githubusercontent.com/u/39676098?v=4) [angelofallars](https://github.com/angelofallars) | 238 | 115 | Philippines | [Profile](https://github.com/angelofallars) |
+| 57 | ![JohnEsleyer](https://avatars.githubusercontent.com/u/66754038?v=4) [JohnEsleyer](https://github.com/JohnEsleyer) | 233 | 82 | Koronadal City, South Cotabato, Philippines | [Profile](https://github.com/JohnEsleyer) |
+| 58 | ![noeyislearning](https://avatars.githubusercontent.com/u/132775768?v=4) [noeyislearning](https://github.com/noeyislearning) | 232 | 2 | Philippines | [Profile](https://github.com/noeyislearning) |
+| 59 | ![roycuadra](https://avatars.githubusercontent.com/u/103763740?v=4) [roycuadra](https://github.com/roycuadra) | 228 | 184 | Philippines | [Profile](https://github.com/roycuadra) |
+| 60 | ![Evolution-X](https://avatars.githubusercontent.com/u/165590896?v=4) [Evolution-X](https://github.com/Evolution-X) | 224 | 47 | Philippines | [Profile](https://github.com/Evolution-X) |
+| 61 | ![NelTeano](https://avatars.githubusercontent.com/u/108077205?v=4) [NelTeano](https://github.com/NelTeano) | 224 | 39 | Philippines, Cavite | [Profile](https://github.com/NelTeano) |
+| 62 | ![robitussin](https://avatars.githubusercontent.com/u/13309127?v=4) [robitussin](https://github.com/robitussin) | 223 | 106 | Manila, Philippines | [Profile](https://github.com/robitussin) |
+| 63 | ![kulotsystems](https://avatars.githubusercontent.com/u/78327825?v=4) [kulotsystems](https://github.com/kulotsystems) | 222 | 112 | Philippines | Nabua, Cam. Sur (Region V) | [Profile](https://github.com/kulotsystems) |
+| 64 | ![PinoyFreeCoder](https://avatars.githubusercontent.com/u/56300842?v=4) [PinoyFreeCoder](https://github.com/PinoyFreeCoder) | 219 | 48 | Philippines | [Profile](https://github.com/PinoyFreeCoder) |
+| 65 | ![Lameguy64](https://avatars.githubusercontent.com/u/10251759?v=4) [Lameguy64](https://github.com/Lameguy64) | 213 | 23 | Philippines | [Profile](https://github.com/Lameguy64) |
+| 66 | ![sepiroth-x](https://avatars.githubusercontent.com/u/45693885?v=4) [sepiroth-x](https://github.com/sepiroth-x) | 207 | 21 | Cebu, Philippines | [Profile](https://github.com/sepiroth-x) |
+| 67 | ![kleo](https://avatars.githubusercontent.com/u/13497504?v=4) [kleo](https://github.com/kleo) | 201 | 64 | Philippines | [Profile](https://github.com/kleo) |
+| 68 | ![vaynx2763](https://avatars.githubusercontent.com/u/160458839?v=4) [vaynx2763](https://github.com/vaynx2763) | 200 | 4 | Philippines | [Profile](https://github.com/vaynx2763) |
+| 69 | ![prxncxss03](https://avatars.githubusercontent.com/u/84000523?v=4) [prxncxss03](https://github.com/prxncxss03) | 197 | 19 | Philippines | [Profile](https://github.com/prxncxss03) |
+| 70 | ![AnimMouse](https://avatars.githubusercontent.com/u/40349541?v=4) [AnimMouse](https://github.com/AnimMouse) | 196 | 83 | Caloocan, Philippines | [Profile](https://github.com/AnimMouse) |
+| 71 | ![Google-DSC-PUP](https://avatars.githubusercontent.com/u/116084318?v=4) [Google-DSC-PUP](https://github.com/Google-DSC-PUP) | 195 | 3 | Philippines | [Profile](https://github.com/Google-DSC-PUP) |
+| 72 | ![izkillaz](https://avatars.githubusercontent.com/u/39824168?v=4) [izkillaz](https://github.com/izkillaz) | 195 | 5 | Philippines | [Profile](https://github.com/izkillaz) |
+| 73 | ![johndavedecano](https://avatars.githubusercontent.com/u/1860038?v=4) [johndavedecano](https://github.com/johndavedecano) | 192 | 164 | Pasig, Philippines | [Profile](https://github.com/johndavedecano) |
+| 74 | ![exezick](https://avatars.githubusercontent.com/u/32317351?v=4) [exezick](https://github.com/exezick) | 189 | 7 | Philippines | [Profile](https://github.com/exezick) |
+| 75 | ![GinoongFlores](https://avatars.githubusercontent.com/u/63575947?v=4) [GinoongFlores](https://github.com/GinoongFlores) | 188 | 120 | Cagayan de Oro City, Philippines | [Profile](https://github.com/GinoongFlores) |
+| 76 | ![darryldecode](https://avatars.githubusercontent.com/u/5498919?v=4) [darryldecode](https://github.com/darryldecode) | 187 | 30 | Davao City, Philippines | [Profile](https://github.com/darryldecode) |
+| 77 | ![JohnDominicJasmin](https://avatars.githubusercontent.com/u/67941562?v=4) [JohnDominicJasmin](https://github.com/JohnDominicJasmin) | 186 | 37 | Philippines | [Profile](https://github.com/JohnDominicJasmin) |
+| 78 | ![nthnn](https://avatars.githubusercontent.com/u/90981832?v=4) [nthnn](https://github.com/nthnn) | 185 | 70 | Philippines | [Profile](https://github.com/nthnn) |
+| 79 | ![ronoliverclarin](https://avatars.githubusercontent.com/u/2889432?v=4) [ronoliverclarin](https://github.com/ronoliverclarin) | 184 | 1 | Cavite, Philippines | [Profile](https://github.com/ronoliverclarin) |
+| 80 | ![Ayaon-Norhani](https://avatars.githubusercontent.com/u/71630199?v=4) [Ayaon-Norhani](https://github.com/Ayaon-Norhani) | 182 | 12 | Metro Manila, Philippines | [Profile](https://github.com/Ayaon-Norhani) |
+| 81 | ![constROD](https://avatars.githubusercontent.com/u/60320390?v=4) [constROD](https://github.com/constROD) | 182 | 11 | Philippines | [Profile](https://github.com/constROD) |
+| 82 | ![VeoScript](https://avatars.githubusercontent.com/u/26340308?v=4) [VeoScript](https://github.com/VeoScript) | 181 | 91 | Leyte, Philippines | [Profile](https://github.com/VeoScript) |
+| 83 | ![adonespitogo](https://avatars.githubusercontent.com/u/3839684?v=4) [adonespitogo](https://github.com/adonespitogo) | 180 | 68 | Cebu City, Philippines | [Profile](https://github.com/adonespitogo) |
+| 84 | ![ting-prado](https://avatars.githubusercontent.com/u/84779316?v=4) [ting-prado](https://github.com/ting-prado) | 179 | 29 | Gingoog City, Philippines | [Profile](https://github.com/ting-prado) |
+| 85 | ![clrke](https://avatars.githubusercontent.com/u/7193634?v=4) [clrke](https://github.com/clrke) | 178 | 132 | Philippines | [Profile](https://github.com/clrke) |
+| 86 | ![johnpaullazaro](https://avatars.githubusercontent.com/u/91587717?v=4) [johnpaullazaro](https://github.com/johnpaullazaro) | 174 | 29 | Philippines | [Profile](https://github.com/johnpaullazaro) |
+| 87 | ![carlocab](https://avatars.githubusercontent.com/u/30379873?v=4) [carlocab](https://github.com/carlocab) | 170 | 81 | Manila, Philippines | [Profile](https://github.com/carlocab) |
+| 88 | ![festivities](https://avatars.githubusercontent.com/u/77230051?v=4) [festivities](https://github.com/festivities) | 170 | 17 | Philippines | [Profile](https://github.com/festivities) |
+| 89 | ![francismontalbo](https://avatars.githubusercontent.com/u/65653238?v=4) [francismontalbo](https://github.com/francismontalbo) | 170 | 58 | Philippines | [Profile](https://github.com/francismontalbo) |
+| 90 | ![stormwild](https://avatars.githubusercontent.com/u/657249?v=4) [stormwild](https://github.com/stormwild) | 169 | 974 | Philippines | [Profile](https://github.com/stormwild) |
+| 91 | ![renzocabarios](https://avatars.githubusercontent.com/u/72588010?v=4) [renzocabarios](https://github.com/renzocabarios) | 169 | 223 | Philippines, Taguig City | [Profile](https://github.com/renzocabarios) |
+| 92 | ![armlynobinguar](https://avatars.githubusercontent.com/u/65301944?v=4) [armlynobinguar](https://github.com/armlynobinguar) | 169 | 364 | Manila, Philippines | [Profile](https://github.com/armlynobinguar) |
+| 93 | ![Kiboot](https://avatars.githubusercontent.com/u/49277166?v=4) [Kiboot](https://github.com/Kiboot) | 167 | 88 | Philippines | [Profile](https://github.com/Kiboot) |
+| 94 | ![mrepol742](https://avatars.githubusercontent.com/u/62317165?v=4) [mrepol742](https://github.com/mrepol742) | 165 | 111 | Taytay, Rizal, Philippines | [Profile](https://github.com/mrepol742) |
+| 95 | ![cyb3Rs0c](https://avatars.githubusercontent.com/u/92961341?v=4) [cyb3Rs0c](https://github.com/cyb3Rs0c) | 164 | 64 | Philippines | [Profile](https://github.com/cyb3Rs0c) |
+| 96 | ![uncomfyhalomacro](https://avatars.githubusercontent.com/u/66054069?v=4) [uncomfyhalomacro](https://github.com/uncomfyhalomacro) | 164 | 198 | Philippines | [Profile](https://github.com/uncomfyhalomacro) |
+| 97 | ![DaryllCulas](https://avatars.githubusercontent.com/u/129874425?v=4) [DaryllCulas](https://github.com/DaryllCulas) | 162 | 37 | Las Pinas, Metro Manila, Philippines | [Profile](https://github.com/DaryllCulas) |
+| 98 | ![jorenrui](https://avatars.githubusercontent.com/u/23741509?v=4) [jorenrui](https://github.com/jorenrui) | 162 | 19 | Philippines | [Profile](https://github.com/jorenrui) |
+| 99 | ![paulaxisabel](https://avatars.githubusercontent.com/u/102936794?v=4) [paulaxisabel](https://github.com/paulaxisabel) | 161 | 65 | Philippines | [Profile](https://github.com/paulaxisabel) |
+| 100 | ![maiqxx](https://avatars.githubusercontent.com/u/83889170?v=4) [maiqxx](https://github.com/maiqxx) | 160 | 34 | Philippines | [Profile](https://github.com/maiqxx) |
