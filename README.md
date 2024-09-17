@@ -1,5 +1,16 @@
-# Top Followed GitHub Users in the Philippines
+# Top GitHub Users by Public Contributions in the Philippines
+![Insights](https://example.com/insights-image-url.png) <!-- You can add an actual image here -->
 
+## Philippines
+The public contributions by users in the Philippines on 2024/09/17 10:56 AM CEST. This list contains users from Philippines and cities like Manila, Quezon City, Davao City, Cebu City, Makati, and Baguio.
+
+There are **138 countries** and **674 cities** featured in this project.
+
+Currently, there are **967 users** in the Philippines. You need at least **25 followers** to be on this list.
+
+## Don't forget to star ⭐ this repository!
+
+### Top Followed GitHub Users in the Philippines
 | Rank | Username | Followers | Repositories | Location | Profile |
 | --- | --- | --- | --- | --- | --- |
 | 1 | <img src='https://avatars.githubusercontent.com/u/89068725?v=4' alt='carlcastanas' width='40' height='40'> [carlcastanas](https://github.com/carlcastanas) | 2774 | 49 | BGC, Philippines | [Profile](https://github.com/carlcastanas) |
@@ -68,8 +79,8 @@
 | 64 | <img src='https://avatars.githubusercontent.com/u/56300842?v=4' alt='PinoyFreeCoder' width='40' height='40'> [PinoyFreeCoder](https://github.com/PinoyFreeCoder) | 219 | 48 | Philippines | [Profile](https://github.com/PinoyFreeCoder) |
 | 65 | <img src='https://avatars.githubusercontent.com/u/10251759?v=4' alt='Lameguy64' width='40' height='40'> [Lameguy64](https://github.com/Lameguy64) | 213 | 23 | Philippines | [Profile](https://github.com/Lameguy64) |
 | 66 | <img src='https://avatars.githubusercontent.com/u/45693885?v=4' alt='sepiroth-x' width='40' height='40'> [sepiroth-x](https://github.com/sepiroth-x) | 207 | 21 | Cebu, Philippines | [Profile](https://github.com/sepiroth-x) |
-| 67 | <img src='https://avatars.githubusercontent.com/u/13497504?v=4' alt='kleo' width='40' height='40'> [kleo](https://github.com/kleo) | 201 | 64 | Philippines | [Profile](https://github.com/kleo) |
-| 68 | <img src='https://avatars.githubusercontent.com/u/160458839?v=4' alt='vaynx2763' width='40' height='40'> [vaynx2763](https://github.com/vaynx2763) | 201 | 4 | Philippines | [Profile](https://github.com/vaynx2763) |
+| 67 | <img src='https://avatars.githubusercontent.com/u/160458839?v=4' alt='vaynx2763' width='40' height='40'> [vaynx2763](https://github.com/vaynx2763) | 202 | 4 | Philippines | [Profile](https://github.com/vaynx2763) |
+| 68 | <img src='https://avatars.githubusercontent.com/u/13497504?v=4' alt='kleo' width='40' height='40'> [kleo](https://github.com/kleo) | 201 | 64 | Philippines | [Profile](https://github.com/kleo) |
 | 69 | <img src='https://avatars.githubusercontent.com/u/84000523?v=4' alt='prxncxss03' width='40' height='40'> [prxncxss03](https://github.com/prxncxss03) | 197 | 19 | Philippines | [Profile](https://github.com/prxncxss03) |
 | 70 | <img src='https://avatars.githubusercontent.com/u/116084318?v=4' alt='Google-DSC-PUP' width='40' height='40'> [Google-DSC-PUP](https://github.com/Google-DSC-PUP) | 195 | 3 | Philippines | [Profile](https://github.com/Google-DSC-PUP) |
 | 71 | <img src='https://avatars.githubusercontent.com/u/40349541?v=4' alt='AnimMouse' width='40' height='40'> [AnimMouse](https://github.com/AnimMouse) | 195 | 83 | Caloocan, Philippines | [Profile](https://github.com/AnimMouse) |
