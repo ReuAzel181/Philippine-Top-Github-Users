@@ -48,5 +48,5 @@ function generate_markdown($users, $filename) {
 $users = get_top_followed_users();
 generate_markdown($users, 'README.md');
 
-echo "Markdown file generated: philippines.md";
+echo "Markdown file generated: README.md";
 ?>
