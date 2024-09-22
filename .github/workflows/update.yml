@@ -18,8 +18,8 @@ jobs:
         with:
           php-version: 7.4
 
-      - name: Run PHP script
-        run: php top_github_users.php
+     # - name: Run PHP script
+     #   run: php top_github_users.php
 
       - name: Commit and push changes
         run: |
