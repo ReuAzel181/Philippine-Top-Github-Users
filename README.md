@@ -2,11 +2,13 @@
 ![GitHub Philippines](https://example.com/insights-image-url.png) <!-- Add an actual image URL here -->
 
 ### Overview
-This is a dynamically updated list of GitHub users from the Philippines, showcasing users from cities across the country as of 2024/09/22 05:11 AM CEST.
+This is a dynamically updated list of GitHub users from the Philippines, showcasing users from cities across the country as of 2024/09/22 05:48 AM CEST.
 This list contains users from **31 cities** across the Philippines.
 
 As of now, there are **100 users** listed from the Philippines.
 
+
+**This is a list of the top 100 GitHub users in the Philippines, based on the location set in their GitHub profiles.**
 ## Category Links
 - [Top GitHub Users by Followers](#top-github-users-by-followers)
 - [Top GitHub Users by Repositories](#top-github-users-by-repositories)
@@ -216,5 +218,15 @@ As of now, there are **100 users** listed from the Philippines.
 | 98 | <img src='https://avatars.githubusercontent.com/u/132775768?v=4' alt='noeyislearning' width='40' height='40'> [noeyislearning](https://github.com/noeyislearning) | 231 | 3 | Philippines | [Profile](https://github.com/noeyislearning) |
 | 99 | <img src='https://avatars.githubusercontent.com/u/116084318?v=4' alt='Google-DSC-PUP' width='40' height='40'> [Google-DSC-PUP](https://github.com/Google-DSC-PUP) | 194 | 3 | Philippines | [Profile](https://github.com/Google-DSC-PUP) |
 | 100 | <img src='https://avatars.githubusercontent.com/u/2889432?v=4' alt='ronoliverclarin' width='40' height='40'> [ronoliverclarin](https://github.com/ronoliverclarin) | 184 | 1 | Cavite, Philippines | [Profile](https://github.com/ronoliverclarin) |
+
+### Check if Your Account is Listed
+<button onclick="checkAccount()">Is My Account Listed?</button>
+<script>
+                    function checkAccount() {
+                        const username = prompt('Enter your GitHub username:');
+                        const searchURL = `https://github.com/search?q=${username}+location:Philippines&type=users`;
+                        window.open(searchURL, '_blank');
+                    }
+                  </script>
 
 Thank you for checking out the list of GitHub users in the Philippines! Don't forget to contribute to the open-source community, and feel free to ⭐ star this repository!
