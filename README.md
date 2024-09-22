@@ -1,18 +1,12 @@
 # GitHub Users in the Philippines
-![GitHub Philippines](https://example.com/insights-image-url.png) <!-- Add an actual image URL here -->
+<p style="align: center">
+<img src="https://pbs.twimg.com/media/F0LUJqjX0AAzDIf.jpg" alt="GitHub Philippines" width="400" />
+</p>
 
 
-### Check if Your Account is Listed
-<button onclick="checkAccount()">Is My Account Listed?</button>
-<script>
-                    function checkAccount() {
-                        const username = prompt('Enter your GitHub username:');
-                        const searchURL = 'https://github.com/search?q=' + username + '+location:Philippines&type=users';
-                        window.open(searchURL, '_blank');
-                    }
-                  </script>
+
 ### Overview
-This is a dynamically updated list of GitHub users from the Philippines, showcasing users from cities across the country as of 2024/09/22 06:06 AM CEST.
+This is a dynamically updated list of GitHub users from the Philippines, showcasing users from cities across the country as of 2024/09/22 06:27 AM CEST.
 This list contains users from **31 cities** across the Philippines.
 
 
@@ -27,7 +21,7 @@ This list contains users from **31 cities** across the Philippines.
 | 2 | <img src='https://avatars.githubusercontent.com/u/46711?v=4' alt='linux-china' width='40' height='40'> [linux-china](https://github.com/linux-china) | 2073 | 523 | Davao City Philippines | [Profile](https://github.com/linux-china) |
 | 3 | <img src='https://avatars.githubusercontent.com/u/16154263?v=4' alt='xchanmolx' width='40' height='40'> [xchanmolx](https://github.com/xchanmolx) | 1936 | 50 | Philippines | [Profile](https://github.com/xchanmolx) |
 | 4 | <img src='https://avatars.githubusercontent.com/u/2687997?v=4' alt='yajra' width='40' height='40'> [yajra](https://github.com/yajra) | 1195 | 88 | Philippines | [Profile](https://github.com/yajra) |
-| 5 | <img src='https://avatars.githubusercontent.com/u/15052701?v=4' alt='warengonzaga' width='40' height='40'> [warengonzaga](https://github.com/warengonzaga) | 1151 | 156 | Philippines | [Profile](https://github.com/warengonzaga) |
+| 5 | <img src='https://avatars.githubusercontent.com/u/15052701?v=4' alt='warengonzaga' width='40' height='40'> [warengonzaga](https://github.com/warengonzaga) | 1152 | 156 | Philippines | [Profile](https://github.com/warengonzaga) |
 | 6 | <img src='https://avatars.githubusercontent.com/u/95715389?v=4' alt='arsg0etia' width='40' height='40'> [arsg0etia](https://github.com/arsg0etia) | 1058 | 5 | Philippines | [Profile](https://github.com/arsg0etia) |
 | 7 | <img src='https://avatars.githubusercontent.com/u/89616705?v=4' alt='godkingjay' width='40' height='40'> [godkingjay](https://github.com/godkingjay) | 1002 | 63 | Philippines | [Profile](https://github.com/godkingjay) |
 | 8 | <img src='https://avatars.githubusercontent.com/u/66854612?v=4' alt='Evolution-X-AOSP' width='40' height='40'> [Evolution-X-AOSP](https://github.com/Evolution-X-AOSP) | 894 | 157 | Philippines | [Profile](https://github.com/Evolution-X-AOSP) |
@@ -144,7 +138,7 @@ This list contains users from **31 cities** across the Philippines.
 | 16 | <img src='https://avatars.githubusercontent.com/u/1860038?v=4' alt='johndavedecano' width='40' height='40'> [johndavedecano](https://github.com/johndavedecano) | 192 | 164 | Pasig, Philippines | [Profile](https://github.com/johndavedecano) |
 | 17 | <img src='https://avatars.githubusercontent.com/u/483547?v=4' alt='six519' width='40' height='40'> [six519](https://github.com/six519) | 494 | 160 | Lipa City, Batangas, Philippines | [Profile](https://github.com/six519) |
 | 18 | <img src='https://avatars.githubusercontent.com/u/66854612?v=4' alt='Evolution-X-AOSP' width='40' height='40'> [Evolution-X-AOSP](https://github.com/Evolution-X-AOSP) | 894 | 157 | Philippines | [Profile](https://github.com/Evolution-X-AOSP) |
-| 19 | <img src='https://avatars.githubusercontent.com/u/15052701?v=4' alt='warengonzaga' width='40' height='40'> [warengonzaga](https://github.com/warengonzaga) | 1151 | 156 | Philippines | [Profile](https://github.com/warengonzaga) |
+| 19 | <img src='https://avatars.githubusercontent.com/u/15052701?v=4' alt='warengonzaga' width='40' height='40'> [warengonzaga](https://github.com/warengonzaga) | 1152 | 156 | Philippines | [Profile](https://github.com/warengonzaga) |
 | 20 | <img src='https://avatars.githubusercontent.com/u/121661057?v=4' alt='RisingTechOSS' width='40' height='40'> [RisingTechOSS](https://github.com/RisingTechOSS) | 245 | 155 | Philippines | [Profile](https://github.com/RisingTechOSS) |
 | 21 | <img src='https://avatars.githubusercontent.com/u/8638243?v=4' alt='jofftiquez' width='40' height='40'> [jofftiquez](https://github.com/jofftiquez) | 393 | 138 | Manila, Philippines | [Profile](https://github.com/jofftiquez) |
 | 22 | <img src='https://avatars.githubusercontent.com/u/76159577?v=4' alt='aldrin112602' width='40' height='40'> [aldrin112602](https://github.com/aldrin112602) | 500 | 136 | Sampaloc, Tanay, Rizal, Philippines | [Profile](https://github.com/aldrin112602) |
