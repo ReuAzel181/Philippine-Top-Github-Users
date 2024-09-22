@@ -1,11 +1,19 @@
 # GitHub Users in the Philippines
 ![GitHub Philippines](https://example.com/insights-image-url.png) <!-- Add an actual image URL here -->
 
-### Overview
-This is a dynamically updated list of GitHub users from the Philippines, showcasing users from cities across the country as of 2024/09/22 05:48 AM CEST.
-This list contains users from **31 cities** across the Philippines.
 
-As of now, there are **100 users** listed from the Philippines.
+### Check if Your Account is Listed
+<button onclick="checkAccount()">Is My Account Listed?</button>
+<script>
+                    function checkAccount() {
+                        const username = prompt('Enter your GitHub username:');
+                        const searchURL = 'https://github.com/search?q=' + username + '+location:Philippines&type=users';
+                        window.open(searchURL, '_blank');
+                    }
+                  </script>
+### Overview
+This is a dynamically updated list of GitHub users from the Philippines, showcasing users from cities across the country as of 2024/09/22 06:06 AM CEST.
+This list contains users from **31 cities** across the Philippines.
 
 
 **This is a list of the top 100 GitHub users in the Philippines, based on the location set in their GitHub profiles.**
@@ -68,7 +76,7 @@ As of now, there are **100 users** listed from the Philippines.
 | 51 | <img src='https://avatars.githubusercontent.com/u/54162088?v=4' alt='aivantuquero' width='40' height='40'> [aivantuquero](https://github.com/aivantuquero) | 250 | 20 | Manila, Philippines | [Profile](https://github.com/aivantuquero) |
 | 52 | <img src='https://avatars.githubusercontent.com/u/24869?v=4' alt='pageman' width='40' height='40'> [pageman](https://github.com/pageman) | 247 | 176 | Manila, Philippines | [Profile](https://github.com/pageman) |
 | 53 | <img src='https://avatars.githubusercontent.com/u/85565519?v=4' alt='codewithJosh' width='40' height='40'> [codewithJosh](https://github.com/codewithJosh) | 247 | 8 | Pangasinan, Philippines | [Profile](https://github.com/codewithJosh) |
-| 54 | <img src='https://avatars.githubusercontent.com/u/121661057?v=4' alt='RisingTechOSS' width='40' height='40'> [RisingTechOSS](https://github.com/RisingTechOSS) | 246 | 155 | Philippines | [Profile](https://github.com/RisingTechOSS) |
+| 54 | <img src='https://avatars.githubusercontent.com/u/121661057?v=4' alt='RisingTechOSS' width='40' height='40'> [RisingTechOSS](https://github.com/RisingTechOSS) | 245 | 155 | Philippines | [Profile](https://github.com/RisingTechOSS) |
 | 55 | <img src='https://avatars.githubusercontent.com/u/74537225?v=4' alt='0xbitx' width='40' height='40'> [0xbitx](https://github.com/0xbitx) | 240 | 120 | China / Philippines | [Profile](https://github.com/0xbitx) |
 | 56 | <img src='https://avatars.githubusercontent.com/u/39676098?v=4' alt='angelofallars' width='40' height='40'> [angelofallars](https://github.com/angelofallars) | 238 | 115 | Philippines | [Profile](https://github.com/angelofallars) |
 | 57 | <img src='https://avatars.githubusercontent.com/u/66754038?v=4' alt='JohnEsleyer' width='40' height='40'> [JohnEsleyer](https://github.com/JohnEsleyer) | 233 | 82 | Koronadal City, South Cotabato, Philippines | [Profile](https://github.com/JohnEsleyer) |
@@ -137,7 +145,7 @@ As of now, there are **100 users** listed from the Philippines.
 | 17 | <img src='https://avatars.githubusercontent.com/u/483547?v=4' alt='six519' width='40' height='40'> [six519](https://github.com/six519) | 494 | 160 | Lipa City, Batangas, Philippines | [Profile](https://github.com/six519) |
 | 18 | <img src='https://avatars.githubusercontent.com/u/66854612?v=4' alt='Evolution-X-AOSP' width='40' height='40'> [Evolution-X-AOSP](https://github.com/Evolution-X-AOSP) | 894 | 157 | Philippines | [Profile](https://github.com/Evolution-X-AOSP) |
 | 19 | <img src='https://avatars.githubusercontent.com/u/15052701?v=4' alt='warengonzaga' width='40' height='40'> [warengonzaga](https://github.com/warengonzaga) | 1151 | 156 | Philippines | [Profile](https://github.com/warengonzaga) |
-| 20 | <img src='https://avatars.githubusercontent.com/u/121661057?v=4' alt='RisingTechOSS' width='40' height='40'> [RisingTechOSS](https://github.com/RisingTechOSS) | 246 | 155 | Philippines | [Profile](https://github.com/RisingTechOSS) |
+| 20 | <img src='https://avatars.githubusercontent.com/u/121661057?v=4' alt='RisingTechOSS' width='40' height='40'> [RisingTechOSS](https://github.com/RisingTechOSS) | 245 | 155 | Philippines | [Profile](https://github.com/RisingTechOSS) |
 | 21 | <img src='https://avatars.githubusercontent.com/u/8638243?v=4' alt='jofftiquez' width='40' height='40'> [jofftiquez](https://github.com/jofftiquez) | 393 | 138 | Manila, Philippines | [Profile](https://github.com/jofftiquez) |
 | 22 | <img src='https://avatars.githubusercontent.com/u/76159577?v=4' alt='aldrin112602' width='40' height='40'> [aldrin112602](https://github.com/aldrin112602) | 500 | 136 | Sampaloc, Tanay, Rizal, Philippines | [Profile](https://github.com/aldrin112602) |
 | 23 | <img src='https://avatars.githubusercontent.com/u/3483615?v=4' alt='shipcod3' width='40' height='40'> [shipcod3](https://github.com/shipcod3) | 427 | 133 | Philippines | [Profile](https://github.com/shipcod3) |
@@ -218,15 +226,5 @@ As of now, there are **100 users** listed from the Philippines.
 | 98 | <img src='https://avatars.githubusercontent.com/u/132775768?v=4' alt='noeyislearning' width='40' height='40'> [noeyislearning](https://github.com/noeyislearning) | 231 | 3 | Philippines | [Profile](https://github.com/noeyislearning) |
 | 99 | <img src='https://avatars.githubusercontent.com/u/116084318?v=4' alt='Google-DSC-PUP' width='40' height='40'> [Google-DSC-PUP](https://github.com/Google-DSC-PUP) | 194 | 3 | Philippines | [Profile](https://github.com/Google-DSC-PUP) |
 | 100 | <img src='https://avatars.githubusercontent.com/u/2889432?v=4' alt='ronoliverclarin' width='40' height='40'> [ronoliverclarin](https://github.com/ronoliverclarin) | 184 | 1 | Cavite, Philippines | [Profile](https://github.com/ronoliverclarin) |
-
-### Check if Your Account is Listed
-<button onclick="checkAccount()">Is My Account Listed?</button>
-<script>
-                    function checkAccount() {
-                        const username = prompt('Enter your GitHub username:');
-                        const searchURL = `https://github.com/search?q=${username}+location:Philippines&type=users`;
-                        window.open(searchURL, '_blank');
-                    }
-                  </script>
 
 Thank you for checking out the list of GitHub users in the Philippines! Don't forget to contribute to the open-source community, and feel free to ⭐ star this repository!
