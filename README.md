@@ -1,16 +1,14 @@
 # GitHub Users in the Philippines
-<p style="align: center">
-<img src="https://pbs.twimg.com/media/F0LUJqjX0AAzDIf.jpg" alt="GitHub Philippines" width="400" />
+<p style="float: right; margin-left: 20px;">
+  <img src="https://pbs.twimg.com/media/F0LUJqjX0AAzDIf.jpg" alt="GitHub Philippines" width="400" />
 </p>
 
-
-
 ### Overview
-This is a dynamically updated list of GitHub users from the Philippines, showcasing users from cities across the country as of 2024/09/22 06:27 AM CEST.
+This is a dynamically updated list of GitHub users from the Philippines, showcasing users from cities across the country as of 2024/09/23 09:29 AM CEST.
 This list contains users from **31 cities** across the Philippines.
 
-
 **This is a list of the top 100 GitHub users in the Philippines, based on the location set in their GitHub profiles.**
+
 ## Category Links
 - [Top GitHub Users by Followers](#top-github-users-by-followers)
 - [Top GitHub Users by Repositories](#top-github-users-by-repositories)
