@@ -1,8 +1,7 @@
 # GitHub Users in the Philippines
 <p align="center">
-    <img src="[makabayan.jpg](https://x.com/k1nGnAmj0on/status/1676135279969849344/photo/1)" alt="GitHub Philippines" width="400" />
+    <img src="https://x.com/k1nGnAmj0on/status/1676135279969849344/photo/1" alt="GitHub Philippines" width="400" />
 </p>
-
 
 
 ### Overview
