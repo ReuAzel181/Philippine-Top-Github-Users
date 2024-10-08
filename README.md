@@ -1,8 +1,8 @@
 # GitHub Users in the Philippines
-![GitHub Philippines](https://example.com/insights-image-url.png)
+![GitHub Philippines](makabayan.jpg)
 
 ### Overview
-This is a dynamically updated list of GitHub users from the Philippines, showcasing users from cities across the country as of 2024/10/08 11:42 PM CEST.
+This is a dynamically updated list of GitHub users from the Philippines, showcasing users from cities across the country as of 2024/10/09 11:42 PM CEST.
 This list contains users from **50 cities** across the Philippines.
 
 
