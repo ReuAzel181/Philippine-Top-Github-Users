@@ -1,6 +1,6 @@
 <?php
-// Replace with your GitHub Personal Access Token
-$token = '';
+// Enter your GitHub token here
+$token = 'YOUR_GITHUB_TOKEN_HERE';
 
 // Function to fetch data from GitHub API
 function fetch_github_data($url, $token) {
