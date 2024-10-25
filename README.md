@@ -2,7 +2,7 @@
 ![GitHub Philippines](makabayan.jpg)
 
 ### Overview
-This is a dynamically updated list of GitHub users from the Philippines, showcasing users from cities across the country as of 2024/10/28 12:33 AM CET.
+This is a dynamically updated list of GitHub users from the Philippines, showcasing users from cities across the country as of 2024/10/28 12:45 AM CET.
 This list contains users from **47 cities** across the Philippines.
 
 
@@ -103,7 +103,7 @@ This list contains users from **47 cities** across the Philippines.
 | 88 | <img src='https://avatars.githubusercontent.com/u/129874425?v=4' alt='DaryllCulas' width='40' height='40'> [DaryllCulas](https://github.com/DaryllCulas) | 178 | 40 | Las Pinas, Metro Manila, Philippines | [Profile](https://github.com/DaryllCulas) |
 | 89 | <img src='https://avatars.githubusercontent.com/u/66054069?v=4' alt='uncomfyhalomacro' width='40' height='40'> [uncomfyhalomacro](https://github.com/uncomfyhalomacro) | 178 | 202 | Philippines | [Profile](https://github.com/uncomfyhalomacro) |
 | 90 | <img src='https://avatars.githubusercontent.com/u/30379873?v=4' alt='carlocab' width='40' height='40'> [carlocab](https://github.com/carlocab) | 176 | 91 | Manila, Philippines | [Profile](https://github.com/carlocab) |
-| 91 | <img src='https://avatars.githubusercontent.com/u/657249?v=4' alt='stormwild' width='40' height='40'> [stormwild](https://github.com/stormwild) | 174 | 1009 | Philippines | [Profile](https://github.com/stormwild) |
+| 91 | <img src='https://avatars.githubusercontent.com/u/657249?v=4' alt='stormwild' width='40' height='40'> [stormwild](https://github.com/stormwild) | 174 | 1011 | Philippines | [Profile](https://github.com/stormwild) |
 | 92 | <img src='https://avatars.githubusercontent.com/u/72588010?v=4' alt='renzocabarios' width='40' height='40'> [renzocabarios](https://github.com/renzocabarios) | 174 | 226 | Philippines, Taguig City | [Profile](https://github.com/renzocabarios) |
 | 93 | <img src='https://avatars.githubusercontent.com/u/91587717?v=4' alt='johnpaullazaro' width='40' height='40'> [johnpaullazaro](https://github.com/johnpaullazaro) | 173 | 30 | Philippines | [Profile](https://github.com/johnpaullazaro) |
 | 94 | <img src='https://avatars.githubusercontent.com/u/77230051?v=4' alt='festivities' width='40' height='40'> [festivities](https://github.com/festivities) | 173 | 17 | Philippines | [Profile](https://github.com/festivities) |
@@ -193,26 +193,25 @@ This list contains users from **47 cities** across the Philippines.
 | 178 | <img src='https://avatars.githubusercontent.com/u/18444033?v=4' alt='kuuuurt' width='40' height='40'> [kuuuurt](https://github.com/kuuuurt) | 93 | 18 | Pasig City, Philippines | [Profile](https://github.com/kuuuurt) |
 | 179 | <img src='https://avatars.githubusercontent.com/u/8020376?v=4' alt='klemens-morgenstern' width='40' height='40'> [klemens-morgenstern](https://github.com/klemens-morgenstern) | 93 | 51 | Philippines | [Profile](https://github.com/klemens-morgenstern) |
 | 180 | <img src='https://avatars.githubusercontent.com/u/622659?v=4' alt='jpalala' width='40' height='40'> [jpalala](https://github.com/jpalala) | 92 | 120 | Philippines | [Profile](https://github.com/jpalala) |
-| 181 | <img src='https://avatars.githubusercontent.com/u/5189714?v=4' alt='benjiao' width='40' height='40'> [benjiao](https://github.com/benjiao) | 92 | 59 | Philippines | [Profile](https://github.com/benjiao) |
-| 182 | <img src='https://avatars.githubusercontent.com/u/72819?v=4' alt='brent-hoover' width='40' height='40'> [brent-hoover](https://github.com/brent-hoover) | 92 | 427 | Manila, Philippines | [Profile](https://github.com/brent-hoover) |
-| 183 | <img src='https://avatars.githubusercontent.com/u/10202948?v=4' alt='andresitodeguzman' width='40' height='40'> [andresitodeguzman](https://github.com/andresitodeguzman) | 92 | 89 | Navotas City, Philippines | [Profile](https://github.com/andresitodeguzman) |
-| 184 | <img src='https://avatars.githubusercontent.com/u/12166244?v=4' alt='fjcamillo' width='40' height='40'> [fjcamillo](https://github.com/fjcamillo) | 91 | 72 | Manila, Philippines | [Profile](https://github.com/fjcamillo) |
-| 185 | <img src='https://avatars.githubusercontent.com/u/75564428?v=4' alt='SurPathHub' width='40' height='40'> [SurPathHub](https://github.com/SurPathHub) | 90 | 21 | Philippines | [Profile](https://github.com/SurPathHub) |
-| 186 | <img src='https://avatars.githubusercontent.com/u/117834496?v=4' alt='WenDEVLIFE' width='40' height='40'> [WenDEVLIFE](https://github.com/WenDEVLIFE) | 90 | 52 | Davao City, Philippines | [Profile](https://github.com/WenDEVLIFE) |
-| 187 | <img src='https://avatars.githubusercontent.com/u/376472?v=4' alt='terenceponce' width='40' height='40'> [terenceponce](https://github.com/terenceponce) | 89 | 21 | Philippines | [Profile](https://github.com/terenceponce) |
-| 188 | <img src='https://avatars.githubusercontent.com/u/6212018?v=4' alt='akiraaisha' width='40' height='40'> [akiraaisha](https://github.com/akiraaisha) | 89 | 522 | Philippines | [Profile](https://github.com/akiraaisha) |
-| 189 | <img src='https://avatars.githubusercontent.com/u/144324850?v=4' alt='Jevxtn' width='40' height='40'> [Jevxtn](https://github.com/Jevxtn) | 88 | 106 | Philippines | [Profile](https://github.com/Jevxtn) |
-| 190 | <img src='https://avatars.githubusercontent.com/u/109636487?v=4' alt='KevsterAmp' width='40' height='40'> [KevsterAmp](https://github.com/KevsterAmp) | 88 | 19 | Philippines | [Profile](https://github.com/KevsterAmp) |
-| 191 | <img src='https://avatars.githubusercontent.com/u/16146873?v=4' alt='codegracie' width='40' height='40'> [codegracie](https://github.com/codegracie) | 88 | 195 | Philippines | [Profile](https://github.com/codegracie) |
-| 192 | <img src='https://avatars.githubusercontent.com/u/79742932?v=4' alt='kadehna' width='40' height='40'> [kadehna](https://github.com/kadehna) | 88 | 0 | Philippines | [Profile](https://github.com/kadehna) |
-| 193 | <img src='https://avatars.githubusercontent.com/u/61614867?v=4' alt='rookiemonkey' width='40' height='40'> [rookiemonkey](https://github.com/rookiemonkey) | 88 | 80 | Manila, Philippines | [Profile](https://github.com/rookiemonkey) |
-| 194 | <img src='https://avatars.githubusercontent.com/u/74308?v=4' alt='keikun17' width='40' height='40'> [keikun17](https://github.com/keikun17) | 88 | 158 | Philippines | [Profile](https://github.com/keikun17) |
-| 195 | <img src='https://avatars.githubusercontent.com/u/53674742?v=4' alt='ShaneMaglangit' width='40' height='40'> [ShaneMaglangit](https://github.com/ShaneMaglangit) | 87 | 52 | Bulacan, Philippines | [Profile](https://github.com/ShaneMaglangit) |
-| 196 | <img src='https://avatars.githubusercontent.com/u/88817315?v=4' alt='KingNelx' width='40' height='40'> [KingNelx](https://github.com/KingNelx) | 87 | 13 | East Avenue Diliman, Quezon City Philippines | [Profile](https://github.com/KingNelx) |
-| 197 | <img src='https://avatars.githubusercontent.com/u/108027865?v=4' alt='nickaldwin' width='40' height='40'> [nickaldwin](https://github.com/nickaldwin) | 87 | 117 | Philippines, Bacolod City Western Negros Occidental 6100 | [Profile](https://github.com/nickaldwin) |
-| 198 | <img src='https://avatars.githubusercontent.com/u/46235805?v=4' alt='JemPH' width='40' height='40'> [JemPH](https://github.com/JemPH) | 85 | 31 | Philippines | [Profile](https://github.com/JemPH) |
-| 199 | <img src='https://avatars.githubusercontent.com/u/1292222?v=4' alt='wnuqui' width='40' height='40'> [wnuqui](https://github.com/wnuqui) | 85 | 28 | Mandaluyong, Philippines | [Profile](https://github.com/wnuqui) |
-| 200 | <img src='https://avatars.githubusercontent.com/u/50937998?v=4' alt='pauldavid23' width='40' height='40'> [pauldavid23](https://github.com/pauldavid23) | 85 | 98 | Philippines | [Profile](https://github.com/pauldavid23) |
+| 181 | <img src='https://avatars.githubusercontent.com/u/72819?v=4' alt='brent-hoover' width='40' height='40'> [brent-hoover](https://github.com/brent-hoover) | 92 | 427 | Manila, Philippines | [Profile](https://github.com/brent-hoover) |
+| 182 | <img src='https://avatars.githubusercontent.com/u/10202948?v=4' alt='andresitodeguzman' width='40' height='40'> [andresitodeguzman](https://github.com/andresitodeguzman) | 92 | 89 | Navotas City, Philippines | [Profile](https://github.com/andresitodeguzman) |
+| 183 | <img src='https://avatars.githubusercontent.com/u/12166244?v=4' alt='fjcamillo' width='40' height='40'> [fjcamillo](https://github.com/fjcamillo) | 91 | 72 | Manila, Philippines | [Profile](https://github.com/fjcamillo) |
+| 184 | <img src='https://avatars.githubusercontent.com/u/75564428?v=4' alt='SurPathHub' width='40' height='40'> [SurPathHub](https://github.com/SurPathHub) | 90 | 21 | Philippines | [Profile](https://github.com/SurPathHub) |
+| 185 | <img src='https://avatars.githubusercontent.com/u/117834496?v=4' alt='WenDEVLIFE' width='40' height='40'> [WenDEVLIFE](https://github.com/WenDEVLIFE) | 90 | 52 | Davao City, Philippines | [Profile](https://github.com/WenDEVLIFE) |
+| 186 | <img src='https://avatars.githubusercontent.com/u/376472?v=4' alt='terenceponce' width='40' height='40'> [terenceponce](https://github.com/terenceponce) | 89 | 21 | Philippines | [Profile](https://github.com/terenceponce) |
+| 187 | <img src='https://avatars.githubusercontent.com/u/6212018?v=4' alt='akiraaisha' width='40' height='40'> [akiraaisha](https://github.com/akiraaisha) | 89 | 522 | Philippines | [Profile](https://github.com/akiraaisha) |
+| 188 | <img src='https://avatars.githubusercontent.com/u/144324850?v=4' alt='Jevxtn' width='40' height='40'> [Jevxtn](https://github.com/Jevxtn) | 88 | 106 | Philippines | [Profile](https://github.com/Jevxtn) |
+| 189 | <img src='https://avatars.githubusercontent.com/u/109636487?v=4' alt='KevsterAmp' width='40' height='40'> [KevsterAmp](https://github.com/KevsterAmp) | 88 | 19 | Philippines | [Profile](https://github.com/KevsterAmp) |
+| 190 | <img src='https://avatars.githubusercontent.com/u/16146873?v=4' alt='codegracie' width='40' height='40'> [codegracie](https://github.com/codegracie) | 88 | 195 | Philippines | [Profile](https://github.com/codegracie) |
+| 191 | <img src='https://avatars.githubusercontent.com/u/79742932?v=4' alt='kadehna' width='40' height='40'> [kadehna](https://github.com/kadehna) | 88 | 0 | Philippines | [Profile](https://github.com/kadehna) |
+| 192 | <img src='https://avatars.githubusercontent.com/u/61614867?v=4' alt='rookiemonkey' width='40' height='40'> [rookiemonkey](https://github.com/rookiemonkey) | 88 | 80 | Manila, Philippines | [Profile](https://github.com/rookiemonkey) |
+| 193 | <img src='https://avatars.githubusercontent.com/u/74308?v=4' alt='keikun17' width='40' height='40'> [keikun17](https://github.com/keikun17) | 88 | 158 | Philippines | [Profile](https://github.com/keikun17) |
+| 194 | <img src='https://avatars.githubusercontent.com/u/53674742?v=4' alt='ShaneMaglangit' width='40' height='40'> [ShaneMaglangit](https://github.com/ShaneMaglangit) | 87 | 52 | Bulacan, Philippines | [Profile](https://github.com/ShaneMaglangit) |
+| 195 | <img src='https://avatars.githubusercontent.com/u/88817315?v=4' alt='KingNelx' width='40' height='40'> [KingNelx](https://github.com/KingNelx) | 87 | 13 | East Avenue Diliman, Quezon City Philippines | [Profile](https://github.com/KingNelx) |
+| 196 | <img src='https://avatars.githubusercontent.com/u/108027865?v=4' alt='nickaldwin' width='40' height='40'> [nickaldwin](https://github.com/nickaldwin) | 87 | 117 | Philippines, Bacolod City Western Negros Occidental 6100 | [Profile](https://github.com/nickaldwin) |
+| 197 | <img src='https://avatars.githubusercontent.com/u/46235805?v=4' alt='JemPH' width='40' height='40'> [JemPH](https://github.com/JemPH) | 85 | 31 | Philippines | [Profile](https://github.com/JemPH) |
+| 198 | <img src='https://avatars.githubusercontent.com/u/1292222?v=4' alt='wnuqui' width='40' height='40'> [wnuqui](https://github.com/wnuqui) | 85 | 28 | Mandaluyong, Philippines | [Profile](https://github.com/wnuqui) |
+| 199 | <img src='https://avatars.githubusercontent.com/u/50937998?v=4' alt='pauldavid23' width='40' height='40'> [pauldavid23](https://github.com/pauldavid23) | 85 | 98 | Philippines | [Profile](https://github.com/pauldavid23) |
 ### Top GitHub Users by Public Repositories
 | Rank | Username | Followers | Repositories | City | Profile |
 | --- | --- | --- | --- | --- | --- |
@@ -220,7 +219,7 @@ This list contains users from **47 cities** across the Philippines.
 | 2 | <img src='https://avatars.githubusercontent.com/u/70140935?v=4' alt='NirvanaNimbusa' width='40' height='40'> [NirvanaNimbusa](https://github.com/NirvanaNimbusa) | 26 | 2940 | Philippines | [Profile](https://github.com/NirvanaNimbusa) |
 | 3 | <img src='https://avatars.githubusercontent.com/u/123432552?v=4' alt='SamKenX-Hub-Community' width='40' height='40'> [SamKenX-Hub-Community](https://github.com/SamKenX-Hub-Community) | 3 | 1725 | Philippines | [Profile](https://github.com/SamKenX-Hub-Community) |
 | 4 | <img src='https://avatars.githubusercontent.com/u/14812437?v=4' alt='LS-Manila' width='40' height='40'> [LS-Manila](https://github.com/LS-Manila) | 3 | 1380 | Manila, Philippines | [Profile](https://github.com/LS-Manila) |
-| 5 | <img src='https://avatars.githubusercontent.com/u/657249?v=4' alt='stormwild' width='40' height='40'> [stormwild](https://github.com/stormwild) | 174 | 1010 | Philippines | [Profile](https://github.com/stormwild) |
+| 5 | <img src='https://avatars.githubusercontent.com/u/657249?v=4' alt='stormwild' width='40' height='40'> [stormwild](https://github.com/stormwild) | 174 | 1011 | Philippines | [Profile](https://github.com/stormwild) |
 | 6 | <img src='https://avatars.githubusercontent.com/u/7260700?v=4' alt='alvincrisuy' width='40' height='40'> [alvincrisuy](https://github.com/alvincrisuy) | 34 | 750 | Philippines | [Profile](https://github.com/alvincrisuy) |
 | 7 | <img src='https://avatars.githubusercontent.com/u/16274153?v=4' alt='whoami15' width='40' height='40'> [whoami15](https://github.com/whoami15) | 76 | 704 | Philippines | [Profile](https://github.com/whoami15) |
 | 8 | <img src='https://avatars.githubusercontent.com/u/1379799?v=4' alt='volkovasystems' width='40' height='40'> [volkovasystems](https://github.com/volkovasystems) | 72 | 640 | Philippines | [Profile](https://github.com/volkovasystems) |
